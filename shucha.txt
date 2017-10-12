@@ -6,7 +6,7 @@ edit by master branch [edit by master]
 edit by master branch
 edit by master branch
 edit for hot_fix
-edit for hot_fix
+edit for hot_fix [edit by for hot_fix conflict]
 edit for hot_fix
 edit for hot_fix
 edit for hot_fix
